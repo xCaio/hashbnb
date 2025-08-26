@@ -1,4 +1,3 @@
-
 import { Router } from 'express'
 import { connect } from "../../config/db.js";
 import User from "./model.js";

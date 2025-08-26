@@ -9,4 +9,5 @@ export const connect = async() =>{
     }catch(error){
         console.log("Erro: ", error)
     }
+//Connecting to the db
 }
